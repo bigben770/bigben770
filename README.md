@@ -29,6 +29,7 @@ I’m currently learning node js and currently working on a react projects and u
   </div>
 
  </div>
+ ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
  
 <div style="display:flex;flex-direction:row;">
 * visitor count.
